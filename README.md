@@ -13,7 +13,7 @@
 |Fr. Sept. 25| Marco Lopez-Cruz | Accounting for Group-Specific Allele Effects and Admixture in Genomic Predictions | [Rio et al (Genetics, 2020)](https://www.genetics.org/content/216/1/27)|
 |Fr. Oct 2|  |  | |
 |Fr. Oct 9|  |  | |
-|Fr. Oct 16|  |  | |
+|Fr. Oct 16| Alexa |  | |
 |Fr. Oct 23|  |  | |
 |Fr. Oct 30| Harold Wu | TBD | |
 |Fr. Nov 6|  Guanqi Lu| TBD | |
