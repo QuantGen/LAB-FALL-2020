@@ -16,7 +16,7 @@
 |Fr. Oct 16|  |  | |
 |Fr. Oct 23|  |  | |
 |Fr. Oct 30| Harold Wu | TBD | |
-|Fr. Nov 6|  |  | |
+|Fr. Nov 6|  Guanqi Lu| TBD | |
 |Fr. Nov 13|  |  | |
 |Fr. Nov 20|  |  | |
 
