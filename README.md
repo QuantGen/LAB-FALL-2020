@@ -27,6 +27,8 @@
 
 [Sun and Lin (JASAS, 2020) Gene Set testing in GWAS](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1660170)
 
+[Kerin and Marchini (AJHG, 2020) Inferring Gene-by-Environment Interactions with a Bayesian Whole-Genome Regression Model ](https://www.sciencedirect.com/science/article/pii/S0002929720302779)
+
 [Rio et al (Genetics, 2020) Allele-specific effects in admixed populations](https://www.genetics.org/content/216/1/27)
 
 [Small and Arnosti (Genetics, 2020) Transcriptional Enhancers in Drosophila](https://www.genetics.org/content/216/1/1)
@@ -40,3 +42,5 @@
 [Rashking et al. (Nat. Comm, 2020) Pan-cancer study detects genetic risk variants and shared genetic basis in two large cohorts](https://www.nature.com/articles/s41467-020-18246-6)
 
 [Benjamini & Gavrilov (Ann. Appl. Stat. 2009) FDR control in Forward Regression](https://projecteuclid.org/euclid.aoas/1239888367)
+
+[Bi et al. (AJHG, 2020) A Fast and Accurate Method for Genome-Wide Time-to-Event Data Analysis and Its Application to UK Biobank](https://www.sciencedirect.com/science/article/abs/pii/S0002929720301919)
