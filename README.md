@@ -16,7 +16,7 @@
 |Fr. Oct 30| Harold Wu | Multi-trait Genome-Wide Analyses of the Brain Imaging Phenotypes in UK Biobank | [link](https://search-proquest-com.proxy2.cl.msu.edu/docview/2435552496?pq-origsite=summon) |
 |Fr. Nov 6|  Guanqi Lu| TBD | |
 |Fr. Nov 13|  |  | |
-|Fr. Nov 20|  |  | |
+|Fr. Nov 20| Fernando | False Discovery Rate Control and Forward Selection | [link](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1239888367) |
 
 ### Publications that may be of interest 
 (feel free to add items to the wishlist)
