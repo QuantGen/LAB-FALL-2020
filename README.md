@@ -10,7 +10,7 @@
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ---------------- | ---------------- | ------------- |
 |Fr. Oct 2| Marco Lopez-Cruz | Accounting for Group-Specific Allele Effects and Admixture in Genomic Predictions | [Rio et al (Genetics, 2020)](https://www.genetics.org/content/216/1/27)|
-|Fr. Oct 9|  |  | |
+|Fr. Oct 9| Filipe  | Reconstruction of Networks with Direct and Indirect Genetic Effects |[Kruijer et al (Genetics, 2020)] (https://www.genetics.org/content/214/4/781)|
 |Fr. Oct 16| Alexa | TBD, maybe: A Fast and Accurate Method for Genome-Wide Time-to-Event Data Analysis and Its Application to UK Biobank  | [link](https://www.sciencedirect.com/science/article/abs/pii/S0002929720301919) |
 |Fr. Oct 23| Agustin | An intravascular magnetic wire for the high-throughput retrieval of circulating tumour cells in vivo | [link (https://www.nature.com/articles/s41551-018-0257-3)|
 |Fr. Oct 30| Harold Wu | Multi-trait Genome-Wide Analyses of the Brain Imaging Phenotypes in UK Biobank | [link](https://search-proquest-com.proxy2.cl.msu.edu/docview/2435552496?pq-origsite=summon) |
