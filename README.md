@@ -14,7 +14,7 @@
 |Fr. Oct 16| Alexa | TBD, maybe: A Fast and Accurate Method for Genome-Wide Time-to-Event Data Analysis and Its Application to UK Biobank  | [link](https://www.sciencedirect.com/science/article/abs/pii/S0002929720301919) |
 |Fr. Oct 23| Agustin | An intravascular magnetic wire for the high-throughput retrieval of circulating tumour cells in vivo | [link](https://www.nature.com/articles/s41551-018-0257-3)|
 |Fr. Oct 30| Harold Wu | Multi-trait Genome-Wide Analyses of the Brain Imaging Phenotypes in UK Biobank | [link](https://search-proquest-com.proxy2.cl.msu.edu/docview/2435552496?pq-origsite=summon) |
-|Fr. Nov 6|  Guanqi Lu| Pan-cancer study detects genetic risk variants and shared genetic basis in two large cohorts | https://www.nature.com/articles/s41467-020-18246-6|
+|Fr. Nov 6|  Guanqi Lu| Pan-cancer study detects genetic risk variants and shared genetic basis in two large cohorts | [link](https://www.nature.com/articles/s41467-020-18246-6)|
 |Fr. Nov 13|  |  | |
 |Fr. Nov 20| Fernando | False Discovery Rate Control and Forward Selection | [link](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1239888367) |
 
