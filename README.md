@@ -17,7 +17,7 @@
 |Fr. Nov 6|  Guanqi Lu| Pan-cancer study detects genetic risk variants and shared genetic basis in two large cohorts | [link](https://www.nature.com/articles/s41467-020-18246-6)|
 |Fr. Nov 13|  Filipe | Reconstruction of Networks with Direct and Indirect Genetic Effects |[Kruijer et al (Genetics, 2020)](https://www.genetics.org/content/214/4/781)|
 |Fr. Nov 20| Fernando | False Discovery Rate Control and Forward Selection | [link](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1239888367) |
-
+|Fr. Nov 27| Sikta | (Tentative) A Fast and Accurate Method for Genome-WideTime-to-Event Data Analysis and Its Application to UK Biobank | [link](https://www.sciencedirect.com/science/article/abs/pii/S000292972030191) |
 ### Publications that may be of interest 
 (feel free to add items to the wishlist)
 
