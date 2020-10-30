@@ -18,7 +18,9 @@
 |Fr. Nov 13|  Filipe | Reconstruction of Networks with Direct and Indirect Genetic Effects |[Kruijer et al (Genetics, 2020)](https://www.genetics.org/content/214/4/781)|
 |Fr. Nov 20| Fernando | False Discovery Rate Control and Forward Selection | [link](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1239888367) |
 |Fr. Nov 27| Sikta | (Tentative) A Fast and Accurate Method for Genome-WideTime-to-Event Data Analysis and Its Application to UK Biobank | [link](https://www.sciencedirect.com/science/article/pii/S0002929720301919)|
-### Publications that may be of interest 
+|Fr. Dec 11| JP Steibel | Behavioral phenomics for pig breeding and for pig farming | [Article1](https://academic.oup.com/jas/article/97/9/3658/5543141?casa_token=j5n4SPebejgAAAAA:iL1iNiylyxxGNExGRgrjLI8V9PocdUtPy0aehFBhFdH_zxh8xLpoTRJAPANUcwARN1p5cj9IwlXL) [Article2](https://www.sciencedirect.com/science/article/pii/S0168169919308385?casa_token=zg_BJUIkRtgAAAAA:tOXosaZuZDF0AcdBMSd8s7cJ4fQmHA4VOqhu2r-O9qP_sj5wt17P6TxDYWPLdQ1PM3hkzxgcnA) [Article3](https://www.sciencedirect.com/science/article/pii/S0168169920316343?casa_token=4YXdK7ubAiAAAAAA:PdXe8fGAzDcgMeh4P-OqpwSjzgtISo_ozvgjs9wJxF6MIg-lovR1eRBXdGD-dKM-T8jAkWOmgw)|
+
+### Publications that may be of interest
 (feel free to add items to the wishlist)
 
 [Efron (JASA, 2019) Prediction, Estimation, and Attribution](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1762613?journalCode=uasa20) [(Discussion)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1762617)
